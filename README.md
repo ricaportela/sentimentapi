@@ -1,0 +1,2 @@
+# sentimentapi
+Analise de Sentimentos
